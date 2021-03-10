@@ -1,0 +1,18 @@
+{
+  "name": "percobaan_pertama",
+  "version": "1.0.0",
+  "description": "Aditya Panji Rachmadan 1841720023",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Pemrograman-Framework"
+  },
+  "author": "Aditya Panji Rachmadan",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}

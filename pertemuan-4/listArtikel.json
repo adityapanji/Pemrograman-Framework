@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Jeson 1",
+      "body": "Lorem ipsum semrawut 1"
+    },
+    {
+      "userId": 1,
+      "id": 1614606919983,
+      "title": "modul 4",
+      "body": "yea"
+    }
+  ]
+}
