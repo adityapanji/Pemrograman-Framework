@@ -1,0 +1,34 @@
+{
+    "mahasiswa": [
+    {
+    "NIM": 180823453,
+    "nama": "Mahasiswa 1",
+    "alamat": "Jl. Soekarno Hatta No. 9 Malang", "hp": "081802023249",
+    "angkatan": 2018, "status": "aktif"
+    },
+    {
+    "NIM": 140823422,
+    "nama": "Mahasiswa 2",
+    "alamat": "Jl. Barat Timur No. 22 Kidul", "hp": "08976356766",
+    "angkatan": 2014, "status": "lulus"
+    },
+    {
+    "NIM": 160823454,
+    "nama": "Mahasiswa 3",
+    "alamat": "Jl. Soekarno Hatta No. 9 Malang", "hp": "085768837990",
+    "angkatan": 2016, "status": "lulus"
+    },
+    {
+    "NIM": 150853477,
+    "nama": "Mahasiswa 4",
+    "alamat": "Jl. Soekarno Hatta No. 9 Malang", "hp": "081802023249",
+    "angkatan": 2015, "status": "lulus"
+    },
+    {
+    "NIM": 140842487,
+    "nama": "Mahasiswa 5",
+    "alamat": "Jl. Menur No. 9 Surabaya", "hp": "081802023523",
+    "angkatan": 2014, "status": "lulus"
+        }
+    ]
+}
