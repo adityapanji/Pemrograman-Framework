@@ -1,0 +1,29 @@
+{
+  "keranjang": [
+    {
+      "id": 460,
+      "nama": "DAIKIN AC SPLIT 1,5 PK SMILE INVTR WHITE",
+      "harga": 9289000,
+      "stok": "20",
+      "qty": 2
+    },
+    {
+      "id": 461,
+      "nama": "AQUA AC SPLIT 1 PK STANDARD WHITE",
+      "harga": 4299000,
+      "stok": "15",
+      "qty": 2
+    },
+    {
+      "id": 464,
+      "nama": "DAIKIN AC RAMAH LINGKUNGAN",
+      "harga": 4550000,
+      "stok": "10",
+      "qty": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

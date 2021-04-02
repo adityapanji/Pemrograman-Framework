@@ -1,0 +1,85 @@
+{
+    "posts": [
+        {
+            "id": 460,
+            "gambar": "https://eci.id/documents/product/WEB.FTKCRKC35TVM4WH/best/FTKC35TVM4.jpg",
+            "nama": "DAIKIN AC SPLIT 1,5 PK SMILE INVTR WHITE",
+            "harga": 9289000,
+            "stok": "20"
+        },
+        {
+            "id": 461,
+            "gambar": "https://eci.id/documents/product/WEB.AQA-KCR9ANRWH/best/AQA-KCR9ANR-WH.jpg",
+            "nama": "AQUA AC SPLIT 1 PK STANDARD WHITE",
+            "harga": 4299000,
+            "stok": "15"
+        },
+        {
+            "id": 462,
+            "gambar": "https://eci.id/documents/product/WEB.CSCU-PN9WKJWH/best/CS-CU-PN9WKJ.jpg",
+            "nama": "PANASONIC AC SPLIT 1 PK STANDARD WHITE",
+            "harga": 5689000,
+            "stok": "22"
+        },
+        {
+            "id": 463,
+            "gambar": "https://eci.id/documents/product/WEB.FTCRC50NV14WH/best/FTCRC50NV14-WH.jpg",
+            "nama": "DAIKIN AC SPLIT 2 PK WHITE",
+            "harga": 8659000,
+            "stok": "7"
+        },
+        {
+            "id": 464,
+            "gambar": "https://eci.id/documents/product/WEB.FTKCRKC35TVM4WH/best/FTKC35TVM4.jpg",
+            "nama": "DAIKIN AC RAMAH LINGKUNGAN",
+            "harga": 4550000,
+            "stok": "10"
+        },
+        {
+            "id": 465,
+            "gambar": "https://eci.id/documents/product/WEB.AQA-KCR9ANRWH/best/AQA-KCR9ANR-WH.jpg",
+            "nama": "DAIKIN AC SPLIT 2 PK INVERTER WHITE",
+            "harga": 11249000,
+            "stok": "12"
+        },
+        {
+            "id": 466,
+            "gambar": "https://eci.id/documents/product/WEB.CSCU-PN9WKJWH/best/CS-CU-PN9WKJ.jpg",
+            "nama": "AQUA AC SPLIT 1 PK STANDARD WHITE",
+            "harga": 4299000,
+            "stok": "15"
+        },
+        {
+            "id": 467,
+            "gambar": "https://eci.id/documents/product/WEB.FTCRC50NV14WH/best/FTCRC50NV14-WH.jpg",
+            "nama": "PANASONIC AC SPLIT 1 PK STANDARD WHITE",
+            "harga": 5689000,
+            "stok": "22"
+        },
+        {
+            "id": 468,
+            "gambar": "https://eci.id/documents/product/WEB.FTKCRKC35TVM4WH/best/FTKC35TVM4.jpg",
+            "nama": "LG AC SPLIT 2 PK WHITE",
+            "harga": 4659000,
+            "stok": "7"
+        },
+        {
+            "id": 469,
+            "gambar": "https://eci.id/documents/product/WEB.AQA-KCR9ANRWH/best/AQA-KCR9ANR-WH.jpg",
+            "nama": "SAMSUNG LOW WATT",
+            "harga": 6500000,
+            "stok": "10"
+        },
+        {
+            "id": 470,
+            "gambar": "https://eci.id/documents/product/WEB.CSCU-PN9WKJWH/best/CS-CU-PN9WKJ.jpg",
+            "nama": "DAIKIN AC SPLIT 2 PK INVERTER WHITE",
+            "harga": 11249000,
+            "stok": "12"
+        }
+    ],
+    "comments": [],
+    "profile": {
+        "name": "typicode"
+    }
+}
