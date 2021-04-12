@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "userId": 3,
+      "id": 1614606919983,
+      "title": "modul 4",
+      "body": "yea"
+    },
+    {
+      "userId": 1,
+      "id": 1618199345625,
+      "title": "Modul 9",
+      "body": "GETAPI"
+    }
+  ]
+}
